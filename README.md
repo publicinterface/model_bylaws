@@ -1,18 +1,29 @@
-**Model Bylaws (Societies Regulation 2015, Schedule 1)**
+# Public Interface Society Constitution and Bylaws
 
-**Bylaws of** _[insert name of society]_ **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the "Society")**
+## Constitution
 
-**Part 1 – Definitions and Interpretation**
+The purposes of the society are to:
+
+Provide an opportunity for artists to show their work, and  
+Make their work available for public and civic functions
+
+*"This society is a member-funded society. It is funded primarily by its members to carry on activities for the benefit of its members. On its liquidation or dissolution, this society may distribute its money and other property to its members."*
+
+## Bylaws
+
+**Bylaws of** _Public Interface Society_ **(the "Society")**
+
+## Part 1 – Definitions and Interpretation
 
 **Definitions**
 
 **1.1** In these Bylaws:
 
-" **Act"** means the _Societies Act_ of British Columbia as amended from time to time;
+**"Act"** means the _Societies Act_ of British Columbia as amended from time to time;
 
-" **Board"** means the directors of the Society;
+**"Board"** means the directors of the Society;
 
-" **Bylaws"** means these Bylaws as altered from time to time.
+**"Bylaws"** means these Bylaws as altered from time to time.
 
 **Definitions in Act apply**
 
@@ -22,7 +33,7 @@
 
 **1.3** If there is a conflict between these Bylaws and the Act or the regulations under the Act, the Act or the regulations, as the case may be, prevail.
 
-**Part 2 – Members**
+## Part 2 – Members
 
 **Application for membership**
 
@@ -52,7 +63,7 @@
 
 **2.6** A person's membership in the Society is terminated if the person is not in good standing for 6 consecutive months.
 
-**Part 3 – General Meetings of Members**
+## Part 3 – General Meetings of Members
 
 **Time and place of general meeting**
 
@@ -168,7 +179,7 @@
 
 **3.16** A matter to be decided at a general meeting must be decided by ordinary resolution unless the matter is required by the Act or these Bylaws to be decided by special resolution or by another resolution having a higher voting threshold than the threshold for an ordinary resolution.
 
-**Part 4 – Directors**
+## Part 4 – Directors
 
 **Number of directors on Board**
 
@@ -186,7 +197,7 @@
 
 **4.4** A director appointed by the Board to fill a vacancy ceases to be a director at the end of the unexpired portion of the term of office of the individual whose departure from office created the vacancy.
 
-**Part 5 – Directors' Meetings**
+## Part 5 – Directors' Meetings
 
 **Calling directors' meeting**
 
@@ -208,7 +219,7 @@
 
 **5.5** The quorum for the transaction of business at a directors' meeting is a majority of the directors.
 
-**Part 6 – Board Positions**
+## Part 6 – Board Positions
 
 **Election or appointment to Board positions**
 
@@ -264,7 +275,7 @@
 
 (d) making the Society's filings respecting taxes.
 
-**Part 7 – Remuneration of Directors and Signing Authority**
+## Part 7 – Remuneration of Directors and Signing Authority
 
 **Remuneration of directors**
 
